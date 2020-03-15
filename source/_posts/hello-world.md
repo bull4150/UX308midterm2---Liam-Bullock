@@ -1,39 +1,8 @@
 ---
-title: Hello World
+title: Video Games // Call of Duty
 lang: en
+date: '2020-03-15T00:00:00-04:00'
+thumbnail: /images/uploads/cod.jpg
+terms: 'video games, cod, call of duty'
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
-
-## Quick Start
-
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+The rise of video games within the past few years has been an astonishing one. Call of Duty however, is one of the largest markets out there for video game players. Call of Duty (or COD) is a first-person shooter game published by Activision. There is a lot of creative freedom within the franchise; something that started during world war 2 evolved into futuristic worlds and then to outer space.
